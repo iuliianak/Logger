@@ -1,0 +1,19 @@
+{
+    "name": "yulia/logger",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Yulia\\Logger\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yulia N",
+            "email": "iuliia_nak@gm.com"
+        }
+    ],
+    "require": {
+        "psr/log": "^1.1"
+    }
+}
